@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pick Me</string>
+    <string name="text_pick_photo">Pick a photo to share</string>
+    <string name="text_share">Share</string>
+
+    <string name="content_selected_photo">selected_photo</string>
+    <string name="content_camera">camera</string>
+</resources>
